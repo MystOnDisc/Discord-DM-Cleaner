@@ -1,2 +1,2 @@
 # Discord-DM-Cleaner
-Dm Cleaner
+A dm cleaner for discord

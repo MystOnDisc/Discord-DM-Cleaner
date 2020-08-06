@@ -19,11 +19,11 @@ print(f"""
 =============EPIC DISCORD DM CLEANER=============
 =================================================
 {Style.RESET_ALL}           
-                 Made By Aizy                                                                                                                        
+                 Made By Myst                                                                                                                       
 """)
 
 print("Epicly Logging in...")
-bot = commands.Bot(command_prefix='st!')
+bot = commands.Bot(command_prefix='!')
 
 @bot.event
 async def on_connect():
@@ -41,7 +41,7 @@ COMMANDS:
     
 {Fore.YELLOW}
 =================================================
-======================Aizy=======================
+======================Myst=======================
 =================================================
 {Style.RESET_ALL}
 """)
